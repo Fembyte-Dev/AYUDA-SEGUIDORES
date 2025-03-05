@@ -1,0 +1,9 @@
+# Bibliotecas instaladas con pip
+easyocr
+opencv-python-headless
+transformers
+torch
+
+# Nota: tesseract-ocr debe instalarse mediante apt (no es compatible con pip)
+# Para instalar tesseract-ocr, ejecuta el siguiente comando en tu terminal:
+# sudo apt install tesseract-ocr
